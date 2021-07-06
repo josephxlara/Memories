@@ -1,0 +1,1 @@
+Memories is a full-stack project which was built using React, Material-UI, hooks and custom components on the frontend and with Express and Node.js on the backend.
