@@ -1,1 +1,1 @@
-Memories is a full-stack project which was built using React, Material-UI, hooks and custom components on the frontend and with Express and Node.js on the backend.
+Memories is a social media platform which allows users to post memories from events that happened in their lives. The project's frontend was built with React.js, Material-UI, hooks and custom components. The project's backend was built with Node.js and Express. You can check out the project here: https://elegant-benz-786846.netlify.app.
